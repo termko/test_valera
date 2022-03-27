@@ -4,6 +4,7 @@ import "fmt"
 
 // This is a comment before main!!!!!!!!!
 func main() {
-	a := 256
-	fmt.Println(a)
+	a := 152
+	b := 256
+	fmt.Println(a, b)
 }
