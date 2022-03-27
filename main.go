@@ -1,1 +1,5 @@
-package test_valera
+package main
+
+func main() {
+
+}
